@@ -24,9 +24,9 @@ Sample Machine-code Intro:
 
 Exact data of improvement:
 1. LE4bit:
-   new design: 3 CLK (with 2 initialization CLKs included)
-   old design: 36 CLK
-   Improvement: 12x faster
+   a. new design: 3 CLK (with 2 initialization CLKs included)
+   b. old design: 36 CLK
+   c. Improvement: 12x faster
 2. GE4bit:
    new design: 10 CLK
    old design: 44 CLK
