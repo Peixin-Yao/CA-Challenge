@@ -23,15 +23,15 @@ Sample Machine-code Intro:
 4. ram starting with norm is the reference multiply code introducing by the Lab 2
 
 Exact data of improvement:
-1. LE4bit:;
-   new design: 3 CLK (with 2 initialization CLKs included);
-   old design: 36 CLK;
-   Improvement: 12x faster;
-2. GE4bit:;
-   new design: 10 CLK;
-   old design: 44 CLK;
-   Improvement: 4.4x faster;
-3. signed:;
-   new design: 20 CLK;
-   old design: 145 CLK;
-   Improvement: 7.25x faster;
+1. LE4bit:
+   //new design: 3 CLK (with 2 initialization CLKs included)
+   //old design: 36 CLK
+   //Improvement: 12x faster
+2. GE4bit:
+   //new design: 10 CLK
+   //old design: 44 CLK
+   Improvement: 4.4x faster
+3. signed:
+   new design: 20 CLK
+   old design: 145 CLK
+   Improvement: 7.25x faster
