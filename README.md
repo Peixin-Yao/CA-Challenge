@@ -15,7 +15,7 @@ Software Improvement:
 so can save unnecessary clock cycles.
 
 Sample Machine-code Intro:
-normal_method.ram is the multiply code introducing by the Lab 2 (act as a reference)
-LE4bit.ram tests the multiplication of one of factors less than 4 bits.
-GE4bit.ram tests the multiplication of factors greater than or equal to 4 bits.
-signed.ram tests the multiplication of signed factors.
+1. normal_method.ram is the multiply code introducing by the Lab 2 (act as a reference)
+2. LE4bit.ram tests the multiplication of one of factors less than 4 bits.
+3. GE4bit.ram tests the multiplication of factors greater than or equal to 4 bits.
+4. signed.ram tests the multiplication of signed factors.
