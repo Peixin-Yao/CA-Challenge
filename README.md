@@ -1,3 +1,5 @@
+LAB2:
+
 INTRO:
 The design is improved by introducing a new function in MOVC1. 
 It can perform both unsigned and signed multiplication.
