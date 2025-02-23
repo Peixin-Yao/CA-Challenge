@@ -17,8 +17,8 @@ Software Improvement:
 so can save unnecessary clock cycles.
 
 Sample Machine-code Intro:
-1. LE4bit.ram tests the multiplication of one of factors less than 4 bits.
-2. GE4bit.ram tests the multiplication of factors greater than or equal to 4 bits.
+LE4bit.ram tests the multiplication of one of factors less than 4 bits.  
+GE4bit.ram tests the multiplication of factors greater than or equal to 4 bits.  
 3. signed.ram tests the multiplication of signed factors.
 4. ram starting with norm is the reference multiply code introducing by the Lab 2
 
