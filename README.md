@@ -28,10 +28,10 @@ Exact data of improvement:
    old design: 36 CLK
    Improvement: 12x faster
 2. GE4bit:
-   new design: CLK
-   old design:  CLK
-   Improvement: x faster
+   new design: 10 CLK
+   old design: 44 CLK
+   Improvement: 4.4x faster
 3. signed:
-   new design: CLK
+   new design: 20 CLK
    old design: 145 CLK
-   Improvement:  faster   
+   Improvement: 7.25x faster   
