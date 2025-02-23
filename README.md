@@ -17,21 +17,21 @@ Software Improvement:
 so can save unnecessary clock cycles.
   
 Sample Machine-code Intro:  
-LE4bit.ram tests the multiplication of one of factors less than 4 bits.  
-GE4bit.ram tests the multiplication of factors greater than or equal to 4 bits.  
-signed.ram tests the multiplication of signed factors.  
+LE4bit.ram tests the multiplication with one of factors less than 4 bits.  
+GE4bit.ram tests the multiplication with factors greater than or equal to 4 bits.  
+signed.ram tests the multiplication with signed factors.  
 ram starting with norm is the reference multiply code introducing by the Lab 2  
   
 Exact data of improvement:  
 1. LE4bit:  
-   new design: 3 CLK (with 2 initialization CLKs included)  
-   old design: 36 CLK  
+   new design: 3 CLKs (with 2 initialization CLKs included)  
+   old design: 36 CLKs  
    Improvement: 12x faster  
 2. GE4bit:  
-   new design: 10 CLK  
-   old design: 44 CLK  
+   new design: 10 CLKs  
+   old design: 44 CLKs  
    Improvement: 4.4x faster  
 3. signed:  
-   new design: 20 CLK  
-   old design: 145 CLK  
+   new design: 20 CLKs  
+   old design: 145 CLKs  
    Improvement: 7.25x faster  
